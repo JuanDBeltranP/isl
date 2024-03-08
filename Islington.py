@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd  
-import geopandas as gpd
 from joblib import load
 import numpy as np
 import folium
